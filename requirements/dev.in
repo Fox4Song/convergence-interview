@@ -11,3 +11,11 @@ pre-commit
 pip-tools
 pytest-asyncio
 httpx
+
+# Pokédex Agent dependencies
+openai
+requests
+beautifulsoup4
+aiohttp
+rich
+typer
